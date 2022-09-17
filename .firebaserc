@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ionic-demo-app-82702": {
+      "hosting": {
+        "app": [
+          "ionic-demo-app-82702"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ionic-demo-app-82702"
+  }
+}
